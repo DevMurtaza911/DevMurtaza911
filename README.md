@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Murtaza Hussain Zaidi 👋
 
-<!--
-**DevMurtaza911/DevMurtaza911** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Front-End Developer | HTML | CSS | JavaScript
 
-Here are some ideas to get you started:
+I am a passionate Front-End Developer focused on building responsive, modern, and user-friendly websites. I enjoy turning creative ideas and designs into clean, functional web experiences.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+* 💻 Front-End Developer
+* 🌱 Currently improving my JavaScript skills
+* 🎨 Interested in responsive web design and modern UI
+* 🛠️ Building projects using HTML, CSS, JavaScript, Bootstrap, and Tailwind CSS
+* 📫 Open to learning, collaboration, internships, and opportunities
+
+## 🧰 Skills
+
+* HTML5
+* CSS3
+* JavaScript
+* Bootstrap
+* Tailwind CSS
+* Responsive Web Design
+* Git & GitHub
+
+
+## 📫 Connect With Me
+
+* LinkedIn: https://www.linkedin.com/in/murtaza-hussain-zaidi-41bb85308/
+* GitHub: https://github.com/DevMurtaza911
+
+⭐ Feel free to explore my repositories and connect with me!
