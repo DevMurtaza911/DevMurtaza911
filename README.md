@@ -18,7 +18,6 @@ I am a passionate Front-End Developer focused on building responsive, modern, an
 * CSS3
 * JavaScript
 * Bootstrap
-* Tailwind CSS
 * Responsive Web Design
 * Git & GitHub
 
